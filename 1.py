@@ -1,0 +1,6 @@
+a = len(arr) - 1 # O(1)
+out = list()   #0(1)
+while a > 0: о(log1/7(n))
+    out.append(arr[a]) #o(1)
+    a = a // 1.7 #o(1)
+out.merge_sort() #log1.7log(log1.7(n)
